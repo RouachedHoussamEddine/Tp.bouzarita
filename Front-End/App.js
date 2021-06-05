@@ -7,7 +7,7 @@ export default class App extends Component{
   }
 
   fetchData= async()=>{
-    const response = await fetch('https://raw.githubusercontent.com/Hardeepcoder/fake_json/master/Users');
+    const response = await fetch('https://raw.githubusercontent.com/RouachedHoussamEddine/Tp.bouzarita/main/Front-End/API');
     const users = await response.json();
     this.setState({data: users});
 
