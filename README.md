@@ -3,7 +3,7 @@
 
 back-end is a localhost with a PORT 3001
   use this command (npm install express --save) to install express than copy the files inside the back-end to your directory 
-  open CMD then type (node Server.js) 
+  open CMD then type (node server.js) 
   this will activite the server and you can accese it with localhost:3001 
  ![server](https://user-images.githubusercontent.com/84995938/121235322-05ec8100-c895-11eb-9a58-237a21a8ade7.PNG) 
 
